@@ -9,8 +9,8 @@ if(idade >=25){
  console.log ("Volta pra casa , sorry")
 }
 if(idade>25 && comidapreferida== "Pizza"){
-    console.log("pode entar)
-}êlse if(idade >=25 && comidaPreferida=="lasanha"){
+    console.log("pode entar")
+}else if (idade >=25 && comidaPreferida=="lasanha"){
 }else{
-    console.log "volte amanhã porque hoje e pizzaaa"
+    console.log("volte amanhã porque hoje e pizzaaa")
 }
